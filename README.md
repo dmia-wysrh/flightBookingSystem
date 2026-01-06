@@ -1,5 +1,5 @@
 # flightBookingSystem
-```mermaid
+
 graph TD;
     A[Start Process] --> B{Is it a decision point?};
     B -- Yes --> C(Action 1);
